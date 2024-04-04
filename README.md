@@ -5,13 +5,44 @@
 
 I'm a passionate Software and Machine Learning Engineer with a strong background in ML practices, data analysis, and statistical modeling. I'm dedicated to solving real-world problems using data-driven insights. My work involves turning data into actionable intelligence and making data-driven decisions.
 
-## Skills
-- **Machine Learning**: Developing and deploying machine learning models for classification, regression, and clustering.
-- **Data Analysis**: Exploring and cleaning data, extracting valuable insights, and creating visualizations.
-- **Statistical Modeling**: Applying statistical techniques to solve complex problems and make predictions.
-- **Data Visualization**: Using tools like Matplotlib, Seaborn, and Plotly to create informative data visualizations.
-- **Python**: Proficient in Python programming for data manipulation, analysis, and modeling.
-- **SQL**: Experienced in working with relational databases and writing SQL queries.
+## Skills:
+
+1. **Machine Learning**: 
+   - Developed machine learning models for various applications including human activity recognition, person tracking, and peak detection.
+   - Implemented CNN, RNN (LSTM/GRU), and Autoencoder models for person tracking and identification.
+   - Experience with TensorFlow, PyTorch, and scikit-learn.
+
+2. **Data Analysis**:
+   - Explored and cleaned data for preprocessing.
+   - Developed preprocessing pipelines for signal processing using pandas and numpy.
+   - Analyzed data for insights and visualization.
+   
+3. **Software Engineering**:
+   - Developed distributed and multi-threaded edge computing server-client networks using Python and socket programming.
+   - Experience with developing internal features for university infrastructure using .NET, MySQL, and NodeJS.
+   
+4. **Programming**:
+   - Proficient in Python, with experience in software development using Java, C++, and R.
+   
+5. **Tools**:
+   - Proficient in using Python, SQL, LaTeX, VSCode, Jupyter, AWS, Docker, Git, Bitbucket, and Linux.
+
+## Tech Stack:
+
+**Programming Languages**:
+- Python, SQL, LaTeX, R, C++, Java
+
+**Frameworks/Libraries**:
+- TensorFlow, PyTorch, scikit-learn, Numpy, Pandas, Matplotlib
+
+**Techniques**:
+- Neural Networks, YOLO, DBSCAN, SVM, Kalman Filter, Decision Tree, k-means, PCA, micro-Doppler
+
+**Applications**:
+- Classification, Regression, Clustering, NLP, Object Detection, Activity Recognition, Data Science, Data Engineering (EDA)
+
+**Other Tools/Platforms**:
+- VSCode, Jupyter, AWS, Docker, Git, Bitbucket
 
 ## Publications
 - [RAPID: Retrofitting APs for Indoor human Detection and sensing](https://ieeexplore.ieee.org/abstract/document/10172159): A mmWave wireless sensing setup for Human Activity Recognition and Person Detection built with a multi-modal CNN
