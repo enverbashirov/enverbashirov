@@ -1,8 +1,6 @@
 
 # Hello, I'm Enver👋
 
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
-
 I'm a passionate Software and Machine Learning Engineer with a strong background in ML practices, data analysis, and statistical modeling. I'm dedicated to solving real-world problems using data-driven insights. My work involves turning data into actionable intelligence and making data-driven decisions.
 
 ## Skills:
@@ -20,12 +18,6 @@ I'm a passionate Software and Machine Learning Engineer with a strong background
 3. **Software Engineering**:
    - Developed distributed and multi-threaded edge computing server-client networks using Python and socket programming.
    - Experience with developing internal features for university infrastructure using .NET, MySQL, and NodeJS.
-   
-4. **Programming**:
-   - Proficient in Python, with experience in software development using Java, C++, and R.
-   
-5. **Tools**:
-   - Proficient in using Python, SQL, LaTeX, VSCode, Jupyter, AWS, Docker, Git, Bitbucket, and Linux.
 
 ## Tech Stack:
 
@@ -60,6 +52,8 @@ I'm a passionate Software and Machine Learning Engineer with a strong background
 ## Contact Me
 - 📧 Email: enver.bashirov@gmail.com
 - LinkedIn: [Enver Bashirov](https://www.linkedin.com/in/enverbashirov)
+
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
 
 Feel free to explore my projects and get in touch if you'd like to collaborate or discuss data-related topics. I'm always open to new opportunities and challenges!
 
