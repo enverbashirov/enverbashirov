@@ -53,10 +53,9 @@ I'm a passionate Software and Machine Learning Engineer with a strong background
 - 📧 Email: enver.bashirov@gmail.com
 - LinkedIn: [Enver Bashirov](https://www.linkedin.com/in/enverbashirov)
 
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
-
 Feel free to explore my projects and get in touch if you'd like to collaborate or discuss data-related topics. I'm always open to new opportunities and challenges!
 
 
+> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
 
 
