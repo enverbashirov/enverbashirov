@@ -1,61 +1,61 @@
+# Hey, I'm Enver 👋  
 
-# Hello, I'm Enver👋
+AI Lead & Machine Learning Engineer with a PhD in ICT. I enjoy **turning chaos into systems that work** — whether that’s training deep learning models, fixing a microservice maze, or scaling infrastructure for enterprise clients.  
 
-I'm a passionate Software and Machine Learning Engineer with a strong background in ML practices, data analysis, and statistical modeling. I'm dedicated to solving real-world problems using data-driven insights. My work involves turning data into actionable intelligence and making data-driven decisions.
+Currently at **Hekanize**, I was one of the first engineers on the ground when the product was (let’s say)… *creatively* architected. Over time, I helped connect people, fix bottlenecks, and evolve the product into a SaaS CRM trusted by clients like **Prada, Dolce & Gabbana, Etro, and Campagnolo**.  
 
-## Skills:
+---
 
-1. **Machine Learning**: 
-   - Developed machine learning models for various applications including human activity recognition, person tracking, and peak detection.
-   - Implemented CNN, RNN (LSTM/GRU), and Autoencoder models for person tracking and identification.
-   - Experience with TensorFlow, PyTorch, and scikit-learn.
+## 🧑‍🚀 Leadership at Hekanize  
+- Built and led a team of 8 developers + external suppliers  
+- Bridged communication between tech, clients, and solution architects  
+- Steered product evolution based on client needs  
+- Balanced uptime firefighting with long-term architecture fixes  
 
-2. **Data Analysis**:
-   - Explored and cleaned data for preprocessing.
-   - Developed preprocessing pipelines for signal processing using pandas and numpy.
-   - Analyzed data for insights and visualization.
-   
-3. **Software Engineering**:
-   - Developed distributed and multi-threaded edge computing server-client networks using Python and socket programming.
-   - Experience with developing internal features for university infrastructure using .NET, MySQL, and NodeJS.
+---
 
-## Tech Stack:
+## 🌟 Highlights  
+- Turned a spaghetti microservice setup into a working SaaS product  
+- Helped land enterprise clients like Prada & Dolce & Gabbana  
+- Built AI-powered modules with LangChain, LangGraph, and Python  
+- Rewrote Terraform-based AWS infrastructure and optimized services  
+- Kept the ship afloat while scaling the team & infrastructure  
 
-**Programming Languages**:
-- Python, SQL, LaTeX, R, C++, Java
+---
 
-**Frameworks/Libraries**:
-- TensorFlow, PyTorch, scikit-learn, Numpy, Pandas, Matplotlib
+## ⚡ Tech Stack  
 
-**Techniques**:
-- Neural Networks, YOLO, DBSCAN, SVM, Kalman Filter, Decision Tree, k-means, PCA, micro-Doppler
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
 
-**Applications**:
-- Classification, Regression, Clustering, NLP, Object Detection, Activity Recognition, Data Science, Data Engineering (EDA)
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
 
-**Other Tools/Platforms**:
-- VSCode, Jupyter, AWS, Docker, Git, Bitbucket
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
 
-## Publications
-- [RAPID: Retrofitting APs for Indoor human Detection and sensing](https://ieeexplore.ieee.org/abstract/document/10172159): A mmWave wireless sensing setup for Human Activity Recognition and Person Detection built with a multi-modal CNN
-- [RadNet: a testbed for mmwave RADar NETworks](https://dl.acm.org/doi/abs/10.1145/3565474.3569068): An edge computing radar-networks testbed for distributed and parallel computing implemented in Python (threading, socket)
-- [Video‑based person‑dependent and person‑independent facial emotion recognition](https://link.springer.com/article/10.1007/s11760-020-01830-0): Recognizing 6 basic emotions through video samples via multi-modal CNN 
+**Databases & APIs**  
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323330?logo=python&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-005571?logo=fastapi&logoColor=white)  
 
-## Education
-- **PHD in Information, Communication and Technology**
-  [University of Padova](https://www.unipd.it/) - 2023
-- **MSc in Computer Science and Applied Mathematics**
-  [Eastern Mediterranean University](https://www.emu.edu.tr/en) - 2019
-- **BSc in Computer Engineering**
-  [Bilkent University](https://www.bilkent.edu.tr/) - 2017
+---
 
-## Contact Me
-- 📧 Email: enver.bashirov@gmail.com
-- LinkedIn: [Enver Bashirov](https://www.linkedin.com/in/enverbashirov)
+## 📬 Let’s Connect  
+- 📧 enver.bashirov@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enverbashirov)  
+- 🖥️ [GitHub](https://github.com/enverbashirov)  
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or discuss data-related topics. I'm always open to new opportunities and challenges!
+---
 
-
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
-
-
+🎵 Fun fact: I debug better with music.  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
