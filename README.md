@@ -36,6 +36,13 @@ Basically: I build, lead, fix, optimize, and teach machines (and teams) to behav
 
 ---
 
+## 📬 Let’s Connect  
+- 📧 enver.bashirov@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enverbashirov)  
+- 🖥️ [GitHub](https://github.com/enverbashirov)  
+
+---
+
 ## 🚴‍♂️ Outside the Code  
 
 <img src="cycling_polimiride25.jpg" alt="Enver cycling competition" width="180" align="left" style="border-radius: 12px; margin-right: 16px;" />  
@@ -45,13 +52,6 @@ When I'm not debugging microservices or fine-tuning models, you’ll likely find
 [![Strava](https://img.shields.io/badge/Follow%20on%20Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/enverbashirov)  
 
 <br clear="left"/>
-
----
-
-## 📬 Let’s Connect  
-- 📧 enver.bashirov@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/enverbashirov)  
-- 🖥️ [GitHub](https://github.com/enverbashirov)  
 
 ---
 
