@@ -36,6 +36,18 @@ Basically: I build, lead, fix, optimize, and teach machines (and teams) to behav
 
 ---
 
+## 🚴‍♂️ Outside the Code  
+
+<img src="cycling_polimiride25.jpg" alt="Enver cycling competition" width="180" align="left" style="border-radius: 12px; margin-right: 16px;" />  
+
+When I'm not debugging microservices or fine-tuning models, you’ll likely find me **cycling** — whether it’s a weekend endurance ride or a local competition. It keeps my mind sharp and my creativity flowing.  
+
+[![Strava](https://img.shields.io/badge/Follow%20on%20Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/enverbashirov)  
+
+<br clear="left"/>
+
+---
+
 ## 📬 Let’s Connect  
 - 📧 enver.bashirov@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/enverbashirov)  
@@ -45,4 +57,4 @@ Basically: I build, lead, fix, optimize, and teach machines (and teams) to behav
 
 🎵 Fun fact: I debug better with music.  
 
-> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=11102629403&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11102629403&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=11102629403&redirect=true)
