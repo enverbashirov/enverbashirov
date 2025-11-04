@@ -4,6 +4,8 @@ AI Lead & Machine Learning Engineer with a PhD in ICT. I enjoy **turning chaos i
 
 Currently at [**Hekanize**](https://hekanize.com/), a SaaS CRM startup, where I joined early and helped shape the product and tech team.  
 
+Find my Résumé -> [Résumé](https://github.com/enverbashirov/Resume-Enver-Bashirov/blob/main/Enver_Bashirov_Resume.pdf)
+
 ---
 
 ## 🧑‍💻 Experience & Impact  
